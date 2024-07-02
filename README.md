@@ -1,3 +1,5 @@
+Nadav034@gmail.com
+
 # Graph Algorithms Project
 
 This project implements various graph algorithms to analyze and process graph data. It includes functionalities for checking connectivity, finding shortest paths, detecting cycles, checking bipartiteness, and detecting negative weight cycles in both directed and undirected graphs. The project also uses `doctest` for unit testing.
