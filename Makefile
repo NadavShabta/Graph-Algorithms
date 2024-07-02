@@ -1,4 +1,4 @@
-//Nadav034@gmail.com
+#Nadav034@gmail.com
 
 CXX = clang++
 CXXFLAGS = -std=c++11 -Wall -Wextra
