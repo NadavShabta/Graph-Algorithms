@@ -1,6 +1,5 @@
-//
-// Created by nadav on 6/28/2024.
-//
+Nadav034@gmail.com
+
 #define DOCTEST_CONFIG_IMPLEMENT_WITH_MAIN
 #include "doctest/doctest.h"
 #include "Algorithms.hpp"
