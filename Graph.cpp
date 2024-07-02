@@ -1,6 +1,4 @@
-//
-// Created by nadav on 6/20/2024.
-//
+//Nadav034@gmail.com
 
 #include "Graph.hpp"
 using namespace std;
