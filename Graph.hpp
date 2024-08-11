@@ -1,4 +1,4 @@
-//Nadav034@gmail.com
+// Nadav034@gmail.com
 
 #pragma once
 #include <vector>
@@ -15,23 +15,20 @@ private:
 public:
     //Constructor
     Graph(vector<vector<int>> newGraph, bool directed, bool weighted, int vertex);
-
     //default constructor
     Graph();
-
     void loadGraph(const vector<vector<int>>& newGraph);
     void printGraph();
-
+    //for default constructed graphs
+    bool isGraphDirected();
+    bool isGraphWeighted();
+    bool isGraphNegWeighted();
     //Getters
-
     int getVertexNum() const;
     bool getIsDirected() const;
     bool getIsWeighted() const;
     bool getIsEmpty() const;
     const std::vector<std::vector<int>>& getGraph() const;
-    bool isGraphDirected();
-    bool isGraphWeighted();
-    int getNumberOfEdges() const;
 };
 
 
